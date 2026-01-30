@@ -9,7 +9,15 @@ Identificação de gargalos no funil de vendas, medindo a conversão entre etapa
 
 ## Ferramentas utilizadas
 
-Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, SciPy, Statsmodels, Jupyter Notebook.
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- SciPy
+- Statsmodels
+- Jupyter Notebook
 
 ## Aprendizado 
 
